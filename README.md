@@ -1,4 +1,3 @@
-Immune mechanisms for dental students
 <!DOCTYPE html>
 <html lang="en">
 <head>
